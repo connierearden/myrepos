@@ -1,4 +1,3 @@
-package testing;
 public class TestTwo {
 
     String[] romanArray = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"};
